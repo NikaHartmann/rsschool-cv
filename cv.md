@@ -11,4 +11,6 @@ I want to improve my frontend's skills, because I like it. I'm studying at unive
 
 While studying I made tree projects, which I made with html, css and js. I used plugins, frameworks and libraries. One of those projects, I placed on GitHub (https://NikaHartmann.github.io/project/).
 
+My experience: I've finished the university like menedjer in tourism and hospitality(BGUFK) and I'm studying at university(BGU) like web-designer now. I've finished courses WAY-UP, few courses Bang Bang Education and I'm studying course English in the StrimLine.
+
 English language level - pre-intermediate.
