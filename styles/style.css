@@ -5,19 +5,27 @@
 .text-source {
     font-family: 'Source Sans Pro', sans-serif;
 }
-h1 {
-    margin-top: 80px;
-    font-size: 56px;
-    width: 450px;
-}
-a {
-    text-decoration: none;
-    color: rgb(139, 98, 98);
-}
+
+
 .wrap-cv {
     width: 900px;
     margin: auto; 
     display: flex;
+}
+header {
+    background: rgb(139, 98, 98);
+}
+.wrap-photo-cv {
+    padding-top: 50px;
+    background-color: rgb(209, 184, 184);
+    width: 300px;
+    height: 250px;
+    margin: 50px 30px 0 50px;
+}
+h1 {
+    margin-top: 80px;
+    font-size: 56px;
+    width: 450px;
 }
 .photo-cv img {
     width: 200px;
@@ -30,31 +38,31 @@ a {
     border-radius: 50%;
     margin: auto;
 }
-.wrap-photo-cv {
-    padding-top: 50px;
-    background-color: rgb(209, 184, 184);
-    width: 300px;
-    height: 250px;
-    margin: 50px 30px 0 50px;
-}
-header {
-    background: rgb(139, 98, 98);
-}
 .name-cv{
     display: flex;
     align-items: center;
     justify-content: center;
 }
-article {
-    background: rgb(209, 184, 184);
-    width: 240px;
-    padding: 0 30px;
-    margin-right: 30px;
-    margin-left: 50px;
+
+
+
+main {
+    background: rgb(219, 219, 219);
+}
+a {
+    text-decoration: none;
+    color: rgb(139, 98, 98);
 }
 .wrap-contacts {
     display: flex;
     flex-wrap: wrap;
+}
+article {
+    background: rgb(189, 146, 146);
+    width: 240px;
+    padding: 0 30px;
+    margin-right: 30px;
+    margin-left: 50px;
 }
 article div img {
     width: 20px;
@@ -75,9 +83,6 @@ ul {
 .wrap-contacts div {
     width: 200px;
 }
-main {
-    background: rgb(219, 219, 219);
-}
 .wrap-profile {
     width: 460px;
 }
@@ -85,6 +90,11 @@ section h2 {
     background: rgb(139, 98, 98);
     padding: 10px;
 }
+
+
+
+
+
 footer {
     display: flex;
     align-items: center;
