@@ -1,1 +1,1 @@
-https://nikahartmann.github.io/rsschool-cv
+https://nikahartmann.github.io/rsschool-cv/museum/
